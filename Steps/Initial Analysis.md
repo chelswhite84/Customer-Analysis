@@ -48,7 +48,7 @@ o	Suggested next steps:
 •	Free shipping on any order or with a minimum amount spend are engaging promotions for customers
 •	Fast turnaround on shipping times like 2 Day shipping can increase ecommerce customer satisfaction, especially during holidays. 
 
-Continue to [Deep Dive Analysis] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/Analysis%20Deep%20Dive.md) 
+Continue to [Analysis Deep Dive] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/Analysis%20Deep%20Dive.md) 
 
 
 Return to [About the Data] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/About%20the%20Data.md)
