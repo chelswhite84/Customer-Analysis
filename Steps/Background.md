@@ -13,7 +13,7 @@ I was presented with the following questions to guide my analysis.
    in store? Do any other factors predict if a customer will buy online or in store? 
 
 
-Continue to [About the Data] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/About%20the%20Data)
+Continue to [About the Data] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/About%20the%20Data.md)
 
 Return to [Intro] (https://github.com/chelswhite84/Customer-Analysis/blob/master/README.md) 
 
