@@ -15,5 +15,5 @@ I was presented with the following questions to guide my analysis.
 
 Continue to [About the Data] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/About%20the%20Data)
 
-Return to [Intro] (https://github.com/chelswhite84/Customer-Analysis/edit/master/README.md) 
+Return to [Intro] (https://github.com/chelswhite84/Customer-Analysis/blob/master/README.md) 
 
