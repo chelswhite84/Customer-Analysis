@@ -13,6 +13,7 @@ o	Past promotional activity
 ♣	Were there any sort of promotions or sales sent to customers based on region to promote your online store? 
 ♣	As mentioned above, I found that customers in the western region are primarily shopping online. I want to determine if perhaps this customer base was send promotions that the other regions were not sent or if the online store was promoted to all regions, or no regions. 
 
-Return to [Initial Analysis] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/Initial%20Analysis.md)
 
 Continue to [Presentation to Management] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/Presentation%20to%20Management.md) 
+
+Return to [Initial Analysis] (https://github.com/chelswhite84/Customer-Analysis/blob/master/Steps/Initial%20Analysis.md)
